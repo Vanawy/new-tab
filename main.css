@@ -5,8 +5,8 @@
     --social: hsla(180, 100%, 95%, 1);
     --dev: hsla(168, 37%, 14%, 1);
     --tm: hsl(330.14, 100%, 40.59%);
+    --ayaya: hsla(314, 26%, 68%, 1);
     --mountbatten-pink: hsla(294, 11%, 50%, 1);
-    --lilac: hsla(314, 26%, 68%, 1);
 }
 
 .container {
@@ -49,8 +49,8 @@
     background-color: var(--dev);
 }
 
-#dev, #dev a {
-    color: white;
+.white-text, .white-text a {
+    color: white !important;
 }
 
 #social {
@@ -61,8 +61,8 @@
     background-color: var(--tm);
 }
 
-#tm, #tm a {
-    color: white;
+#ayaya {
+    background-color: var(--ayaya);
 }
 
 #headshot {
