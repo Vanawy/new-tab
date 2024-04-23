@@ -91,9 +91,9 @@ body {
     font-family: "Chakra Petch", sans-serif;
     font-size: 15px;
 
-    background: url(images/homepage-bg2.png);
-/*     background-position: 0 0px; */
-/*     background-size: cover; */
+    background: url(images/bg_compressed.jpg);
+    background-position: 0 0px;
+    background-size: cover;
 }
 
 
